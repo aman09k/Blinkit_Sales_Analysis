@@ -12,7 +12,6 @@ A comprehensive dashboard that highlights Blinkit’s sales performance, custome
 - <a href="#insights--findings">Insights & Findings</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
-- <a href="#author--contact">Author & Contact</a>
 
 ---
 
