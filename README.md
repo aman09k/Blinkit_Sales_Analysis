@@ -86,7 +86,7 @@ Blinkit_Sales_Analysis/
 
 ![Dashboard Preview](./images/Dashboard.png)
 
-> 📄 [View Full PDF Report](./Blinkit%20Analysis%20SQL%20project%20report.pdf)
+> 📄 
 
 ---
 
